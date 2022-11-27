@@ -1,5 +1,6 @@
-
-This is preview of the project.
+<h1>One can write its HTML/CSS/JS codes in editor and get live view of the code.</h1>
+<h4>This is preview of the project.</h4>
+<br>
 
 ![image](https://user-images.githubusercontent.com/87302150/204126866-0bea19fa-aa17-487b-b438-6506e4ed02bb.png)
 
